@@ -1,0 +1,13 @@
+This file is a new file created by writing w/ fs
+ Let's combine fs_first.txt and fs_second.text w/
+ string literals
+ The first file: This is the first text file
+ The second file: This is the second text fileThis file is a new file created by writing w/ fs
+ Let's combine fs_first.txt and fs_second.text w/
+ string literals
+ The first file: This is the first text file
+ The second file: This is the second text fileThis file is a new file created by writing w/ fs
+ Let's combine fs_first.txt and fs_second.text w/
+ string literals
+ The first file: This is the first text file
+ The second file: This is the second text file
